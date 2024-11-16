@@ -77,81 +77,139 @@ Data Visualization: Utilizing Tableau, Different visualizations were created rep
 
 ### Visuals and inference
 
-### Total sales by product
+### Dashboard Overview
 
-![Total sales by product](https://github.com/user-attachments/assets/1a2ca644-8c1b-4ce4-92a9-262fd00d842d)
+![image](https://github.com/user-attachments/assets/df6a45fd-7832-43b8-82ce-d1a5b89aad17)
 
-- Shoes are the highest selling product with total sales of $613K, indicating they are the most popular and possibly the most profitable product.
+### Visuals and inference
 
-- Shirts are the second highest selling product with sales of $486K, also indicating strong sales performance.
+### The most common diagnosis by region
+![image](https://github.com/user-attachments/assets/a4cb6e20-ef4b-4af7-958e-5f800192a8d9)
 
-- Hats and Gloves have moderate sales, with $316K and $297K respectively, suggesting a steady demand.
+- Arthritis is the most commonly reported diagnosis, indicating it has the highest prevalence among the local governments surveyed.
 
-- Jackets have lower sales at $208K, which might indicate a more niche market or seasonal demand.
+- Obesity is the least commonly reported diagnosis, suggesting it has the lowest prevalence among the listed conditions.
 
-- Socks have the least sales at $181K, making them the least popular product among the six.
+- Diabetes, Cancer, Asthma, and Hypertension have relatively similar counts, indicating that these conditions are reported at comparable levels across the local governments.
 
-### Total sales by region
+### Regional distribution of each diagnosis
+![image](https://github.com/user-attachments/assets/3d92be64-d5bc-4c71-adce-8930839da06e)
+![image](https://github.com/user-attachments/assets/669a48dc-177d-447f-ab1f-b0504d3f8933)
 
-![Total sales by region](https://github.com/user-attachments/assets/f6e57e12-0202-40df-a0b4-74e044e0a131)
+#### Local Government Areas:
 
-- The South region has the highest total sales, amounting to $928K. This indicates a strong market presence or a larger customer base in the South.
+The chart includes the following LGAs: Ibadan North, Ibadan North-East, Ibadan South-East, Lagelu, Ibadan North-West, Ibadan South-West, Egbeda, Ona Ara, Ido, and Akinyele.
 
-- The East region follows, with total sales of $486K, suggesting moderate market performance.
+#### Medical Conditions:
 
-- The North region has total sales of $387K, showing it has a smaller market share compared to the South and East.
+Arthritis (Blue): Most prevalent in Lagelu and Ibadan North Local governments, with significant counts also observed in Ona-ara, Egbeda, and Ibadan North-West and moderate cases in other regions.
 
-- The West region has the lowest total sales at $300K, indicating the smallest market size or presence among the four regions.
+Asthma (Orange): Highest counts in Egbeda and Ibadan North, with significant counts also observed in Ibadan South-West, Ibadan North-West, and Ibadan South-East and moderate cases in other regions.
 
-### Quantity sold by product
+Cancer (Red): Notably prevalent in Ibadan South-West and Akinyele, with significant counts also observed in Ibadan North-West, Ibadan North-East, and Lagelu and moderate cases in other regions.
 
-![Quantity sold by product](https://github.com/user-attachments/assets/6d734c3b-d977-40b1-a5fa-6c49075a5475)
+Diabetes (Light Blue): Significantly prevalent in Ibadan South-East. Notable prevalence is also recorded in Ibadan South-West, and Ido. 
 
-- The highest selling product is Hat with 16k units sold; this is followed by Shoes with 14k units sold.
+Hypertension (Green): Most prevalent in Ibadan North, also notably prevalent in Ibadan North-East, Ibadan South-West, and Akinyele. Moderate cases reported in other regions.
 
-- Shirts and Gloves each have 12K units sold, suggesting a similar level of demand for these products.
+Obesity (Yellow): High prevalence recorded in Ona ara and Ibadan North-East. Signigicant prevalence is also recorded in Lagelu, Ibadan South-East, Egbeda, and Ido Local governments. Moderate cases reported in other LGAs.
 
-- Socks have a lower quantity sold at 8K, indicating they are less popular compared to Hats, Shoes, Shirts, and Gloves.
+### Success rate of various treatment plans
+![image](https://github.com/user-attachments/assets/2848b36b-bbc7-4446-8ce0-29843aed4446)
 
-- Jackets have the lowest quantity sold at 5K, making them the least popular item among the six products.
+- Arthritis: 29% successful, 71% unsuccessful.
+- Asthma:  32% successful, 68% unsuccessful.
+- Cancer: 33% successful, 67% unsuccessful.
+- Diabetes: 31% successful, 69% unsuccessful.
+- Hypertension: 34% successful, 66% unsuccessful.
+- Obesity: 37% successful, 63% unsuccessful.
 
-### Quantity sold by region
+### Age group of patients with specific health conditions
+![image](https://github.com/user-attachments/assets/efeabea3-ed3d-4526-8d04-b14cb3dd6af1)
 
-![Quantity by region](https://github.com/user-attachments/assets/2f3d3739-e78f-4827-a604-ef8ce28ecac9)
+#### Age groups:
+- Young: 18-35 years
+- Young Adult: 36-50 years
+- Adult: 51-85 years
 
-The chart reveals that the South region has the highest quantity sold at 24K, indicating it is the most significant market or has the highest demand for the products. The East region follows with 20K units sold, showing a strong market presence but less than the South. The North region has a total of 12K units sold, suggesting moderate demand compared to the South and East, while the West region has the lowest quantity sold at 11K, indicating it is the smallest market or has the lowest demand for the products.
+#### Arthritis:
+- Adults: 98 cases
+- Young: 42 cases
+- Young Adults: 38 cases
 
-### Total sales by year and month
+#### Asthma:
+- Adults: 79 cases
+- Young: 47 cases
+- Young Adults: 41 cases
 
-### 2023
-![Total sales by year and month](https://github.com/user-attachments/assets/fac6602f-1f17-490a-903a-79c389bf5263)
+#### Cancer:
+- Adults: 85 cases
+- Young: 46 cases
+- Young Adults: 31 cases
 
-### 2024
-![year 2024](https://github.com/user-attachments/assets/eb8e7724-e0a8-468d-8231-bcf04f9af829)
+#### Diabetes:
+- Adults: 77 cases
+- Young: 51 cases
+- Young Adults: 41 cases
 
-- January 2023 starts with moderate sales, while February 2023 shows a significant peak with the highest sales exceeding $600K.
+#### Hypertension:
+- Adults: 81 cases
+- Young: 46 cases
+- Young Adults: 37 cases
 
-- March 2023 experiences a sharp drop to about $248K, followed by a further decrease in April 2023 to $7K, the lowest sales month.
+#### Obesity:
+- Adults: 86 cases
+- Young: 34 cases
+- Young Adults: 35 cases
 
-- Sales gradually recover in May 2023 ($60K) and June 2023 ($99K), with a noticeable spike in July 2023 ($238K) and October 2023 ($134K).
+### Gender of patients with specific health conditions
+![image](https://github.com/user-attachments/assets/f0f28a12-b200-4022-8b8d-3d8d9c8309b2)
 
-- A decline in November 2023 ($104K) and December 2023 ($49K) suggests lower end-of-year activity.
+#### Arthritis:
+- Female: 88 patients
+- Male: 90 patients
+Arthritis affects both genders almost equally, with a slightly higher count in males.
 
-- Sales increase again in January 2024 to $198K, followed by a sharp decline in February 2024 ($29K), then moderate recovery through March 2024 ($95K) and April 2024 ($39K).
+#### Asthma:
+- Female: 74 patients
+- Male: 93 patients
+Asthma has a higher prevalence in males compared to females.
 
-- The second half of 2024 shows significant sales improvement, with peaks in June 2024 ($148K), July 2024 ($137K), and August 2024 ($174K), indicating stronger sales performance compared to the same months in the previous year.
+#### Cancer:
+- Female: 90 patients
+- Male: 77 patients
+Cancer is more prevalent in females than in males.
 
-### Quantity sold by year and month
+#### Diabetes:
+- Female: 73 patients
+- Male: 96 patients
+Diabetes shows a higher prevalence in males compared to females.
 
-![Quantity by month and year](https://github.com/user-attachments/assets/ce15dd5e-a9e4-4c80-a4e6-40d5718416a0)
+#### Hypertension:
+- Female: 79 patients
+- Male: 85 patients
+Hypertension affects both genders fairly equally, with a slight male predominance.
 
-- In 2023, there were significant peaks in sales quantities in February and July, with quantities sold reaching 5.0K and 5.9K, respectively. These peaks suggest strong market demand during these months, possibly due to seasonal factors or promotional events. However, sales dipped sharply in April and May, with quantities dropping to 1.5K and 1.0K, indicating a period of low demand.
+#### Obesity:
+- Female: 71 patients
+- Male: 84 patients
+Obesity is more common in males than in females.
 
-- For 2024, the sales quantities exhibit a fluctuating pattern. January 2024 started strong with 4.0K units sold, and the highest quantity sold in February and March at 5.5K each, indicating continued strong demand in the early part of the year. However, sales dropped significantly in April and May, similar to the previous year, with quantities at 2.0K and 1.5K. Sales then picked up again in June with 3.9K units and fluctuated for the rest of the year.
+### Patient distribution across each year
+![image](https://github.com/user-attachments/assets/bf6def87-a2ce-406e-b5c4-3abab84f1ef8)
 
-### Recommendations
+- 2019: Data is only available from May to December. August and November recorded high admissions than other months of the year.
+- 2020: Admissions are more evenly distributed throughout the year, although with notable no of admissions with the month of January and May.
+- 2021: Similar to 2020, with a slight increase in admissions in the month of February, August, and December.
+- 2022: Significant peak is recorded in the month of June; also notable is number of admissions in the month July, September, and December.
+- 2023: Shows a relatively even distribution across the year with slight peak in the months of January and September.
+- 2024: Data is only available from January to May, within which, high number of admission is recorded in the month of January and March.
 
-- For high performing products like Shoes and Shirts, Increase marketing efforts to maintain and boost sales. Expansion and introduction of new designs should be considered.
-- For low performing products, Campaigns and promotions should be intensiified. Discounts or bundles can be offered, to attract customers.
-- Regions with high revenue should maintain and strengthen the market presence with targeted marketing campaigns, ensuring sufficient inventory to meet high demand; while others should engage in localized promotions to boost sales.
-- The store should utilize peak Months and Plan major marketing campaigns maximize sales, launch new products or limited-time offers during these periods; while low performing months should intensify promotion, implement clearance sales.
+### Overall inference
+1) Arthritis appears to be a significant health issue within the surveyed local governments, while obesity is less frequently reported. The similar reporting levels for diabetes, cancer, asthma, and hypertension suggest these conditions are widespread and may require similar levels of attention for public health initiatives and resource allocation. This information can guide health authorities in prioritizing medical resources and interventions.
+
+ 2)Treatment outcome exhibits the same trend of high levels of unsuccessful rate. This depicts that the treatments plans are inefficient for the health conditions. Therefore, there should be an overall evaluation and overhaul of the entire treatment plans. 
+
+3) Adults have the highest prevalence of all the examined health conditions, indicating a need for targeted healthcare interventions for this age group. For Young Adults and Young have relatively lower counts for all conditions, suggesting they might be less prone to these health issues, or they may have better access to preventive measures. Asthma and Diabetes show notable cases in younger age groups, indicating early intervention and management in this area could be beneficial.
+
+
